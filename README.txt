@@ -1,3 +1,5 @@
+5/15 update: upload new codes for revised version paper. We consider endogenous utiliity setting. The associated code files with "_EndoU" are codes to simulate this settings.
+
 # code files
 '''
     Codes to run the simulation
